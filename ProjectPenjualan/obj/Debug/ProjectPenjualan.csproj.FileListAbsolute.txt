@@ -1,0 +1,6 @@
+D:\UTS GENAP\PEMROG\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+D:\UTS GENAP\PEMROG\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+D:\UTS GENAP\PEMROG\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+D:\UTS GENAP\PEMROG\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojResolveAssemblyReference.cache
+D:\UTS GENAP\PEMROG\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+D:\UTS GENAP\PEMROG\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
